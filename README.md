@@ -7,3 +7,25 @@
 - Variedade de exercícios;
 - Acesso em qualquer lugar.
 
+>> PARTICIPANTES:
+
+Eduardo Roma (erca@cesar.school):
+
+
+
+Caio Fonseca (cmaf@cesar.school):
+
+
+
+Arthur Emery (avem@cesar.school):
+
+
+
+Davi Almeida (dgfra@cesar.school):
+
+
+
+Miguel Andrade (mjfa@cesar.school):
+
+
+
