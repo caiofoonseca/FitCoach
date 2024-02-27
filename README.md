@@ -9,19 +9,19 @@
 
 >> PARTICIPANTES:
 
-Eduardo Roma (erca@cesar.school):
+- Eduardo Roma (erca@cesar.school):
 
 
 
-Caio Fonseca (cmaf@cesar.school):
+- Caio Fonseca (cmaf@cesar.school):
 
 
 
-Arthur Emery (avem@cesar.school):
+- Arthur Emery (avem@cesar.school):
 
 
 
-Davi Almeida (dgfra@cesar.school):
+- Davi Almeida (dgfra@cesar.school):
 
 
 
