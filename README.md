@@ -41,7 +41,7 @@
 
 - H5(Vídeos dos exercícios): Eu, como usuário, gostaria de receber orientações e dicas de execução de exercícios no Fit Coach, através de vídeos ou instruções detalhadas, para garantir que estou realizando os movimentos corretamente e maximizando os benefícios do treino.
 
-- H6(Tela de resultados): Eu, como usuário, gostaria de ter uma aba de resultados, onde eu enviasse fotos do meu antes e depois, por exemplo, e ter noção do meu avanço.
+- H6(Tela de acompanhamento de resultados): Eu, como usuário, gostaria de ter uma aba de resultados, onde eu enviasse fotos do meu antes e depois, por exemplo, e ter noção do meu avanço.
 
 - H7(Tela com a lista de todos os exercícios): Eu, como usuário, gostaria de ter acesso a todos os exercícios disponíveis para cada grupamento muscular, por exemplo, todos os exercícios de perna, todos os exercícios de bíceps e tríceps, etc.
 
