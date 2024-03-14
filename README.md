@@ -49,4 +49,4 @@
 
 - H9(Tela de escolha de intensidade e duração): Eu, como usuário, gostaria de escolher a intensidade e o tempo de duração do meu treino.
 
-- H10(Tela de escolha de local de treino): Eu, como usuário, gostaria de escolher o local onde irei realizar o meu treino.
+- H10(Tela de escolha de local de treino): Eu, como usuário, gostaria de escolher o local onde irei realizar o meu treino para que atenda às minhas necessidades do momento.
