@@ -5,7 +5,9 @@
 - Treinos personalizados;
 - Demonstração de execução correta dos exercícios;
 - Variedade de exercícios;
-- Acesso em qualquer lugar.
+- Acesso em qualquer lugar;
+- Contador de calorias;
+- Variedade de treinos para se realizar onde quiser.
 
 >> PARTICIPANTES:
 
@@ -50,3 +52,15 @@
 - H9(Tela de escolha de intensidade e duração): Eu, como usuário, gostaria de escolher a intensidade e o tempo de duração do meu treino.
 
 - H10(Tela de escolha de local de treino): Eu, como usuário, gostaria de escolher o local onde irei realizar o meu treino para que atenda às minhas necessidades do momento.
+
+
+> ENTREGA 1:
+
+-Screencast:
+
+
+
+-Quadro da sprint 1:
+
+
+
