@@ -13,23 +13,23 @@
 
 - Eduardo Roma (erca@cesar.school):
 
-
+![EduardoRoma](https://github.com/caiofoonseca/FitCoach/assets/136398896/dcaf0a12-38ef-49ef-8847-7c4ae03f0c0c)
 
 - Caio Fonseca (cmaf@cesar.school):
 
-
+![CaioFonseca](https://github.com/caiofoonseca/FitCoach/assets/136398896/eef69390-57ff-421f-b381-b0d244ce347b)
 
 - Arthur Emery (avem@cesar.school):
 
-
+![ArthurEmery](https://github.com/caiofoonseca/FitCoach/assets/136398896/774f404a-9702-4886-85e7-ad828b6e03bd)
 
 - Davi Almeida (dgfra@cesar.school):
 
-
+![DaviAlmeida](https://github.com/caiofoonseca/FitCoach/assets/136398896/5574cd46-e68a-4284-8b0c-aaf769d6a2bb)
 
 - Miguel Andrade (mjfa@cesar.school):
 
-
+![MiguelAndrade](https://github.com/caiofoonseca/FitCoach/assets/136398896/df19368b-7ee6-47ee-a277-c3a054476df4)
 
 > HISTORIAS DO USUÁRIO:
 
