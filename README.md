@@ -60,13 +60,13 @@
 
 
 
--Quadro da sprint 1:
+-Backlog sprint 1:
 
 ![Sprint1Jira](https://github.com/caiofoonseca/FitCoach/assets/136398896/99c9c7d9-f53a-44e9-a87e-e9c2c509059d)
 
--Quadro do backlog:
+-Quadro da sprint 1:
 
-
+![Sprint1Jira1](https://github.com/caiofoonseca/FitCoach/assets/136398896/fcd92cfe-2061-42c2-bee2-de195116f076)
 
 -Docs com as sketches e storyboards:
 
