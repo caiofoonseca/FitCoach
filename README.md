@@ -62,4 +62,12 @@
 
 -Quadro da sprint 1:
 
-![Sprint1Jira](https://github.com/caiofoonseca/FitCoach/assets/136398896/73a936c9-a445-46a3-9dfe-5dcdfee7276e)
+![Sprint1Jira](https://github.com/caiofoonseca/FitCoach/assets/136398896/99c9c7d9-f53a-44e9-a87e-e9c2c509059d)
+
+-Quadro do backlog:
+
+
+
+-Docs com as sketches e storyboards:
+
+https://docs.google.com/document/d/1fAkxw9rqU5qBA3uEOTy9HKuoPMW-jBXz4L8fDHxU-d8/edit?usp=sharing
