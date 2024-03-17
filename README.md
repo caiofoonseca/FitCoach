@@ -71,3 +71,7 @@
 -Docs com as sketches e storyboards:
 
 https://docs.google.com/document/d/1fAkxw9rqU5qBA3uEOTy9HKuoPMW-jBXz4L8fDHxU-d8/edit?usp=sharing
+
+-Link do nosso Figma:
+
+https://www.figma.com/file/no5RElEfpB6tbXlNPSdPFg/Fit-Coach?type=design&node-id=0%3A1&mode=design&t=KuRsgYXbcljxDJSO-1
