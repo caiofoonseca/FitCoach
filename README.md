@@ -62,5 +62,4 @@
 
 -Quadro da sprint 1:
 
-
-
+![Sprint1Jira](https://github.com/caiofoonseca/FitCoach/assets/136398896/73a936c9-a445-46a3-9dfe-5dcdfee7276e)
