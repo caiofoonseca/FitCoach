@@ -58,7 +58,7 @@
 
 -Screencast:
 
-
+https://github.com/caiofoonseca/FitCoach/assets/136398896/058fa883-b907-4a11-b996-71924c5e4da1
 
 -Backlog sprint 1:
 
